@@ -1,6 +1,6 @@
 # VC Video Player
 
-<p align="center"><img src="https://github.com/TeamDeeCode/VcVideoPlayer/blob/dev/assets/star.gif" alt="TeamDeeCode Github" width="1000px" /></p>
+<p align="center"><img src="https://github.com/AeroBotz/VcVideoPlayer/blob/dev/assets/star.gif" alt="TeamDeeCode Github" width="1000px" /></p>
 
 <a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="t.me/PmPermit"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
